@@ -1,8 +1,10 @@
 <h1 align="center"> BMI-calculator</h1>
 
 <p align="center"> 
-  <a href="#" target="_blank"><img width="1063" alt="Screenshot 2023-03-08 220416" src="">
-<img width="1079" alt="Screenshot 2023-03-08 220553" src="https://user-images.githubusercontent.com/99544644/223775726-3abc7de6-0fb4-4fce-a8ab-45acd770e91b.png">
+  <a href="#" target="_blank"><img width="1063" alt="Screenshot 2023-03-08 220416" src="https://github.com/PramodTejra/BMI-calculator/assets/99544644/c529e5b9-0377-4f42-98fe-f7a053ca167b">
+">
+<img width="1079" alt="Screenshot 2023-03-08 220553" src="https://github.com/PramodTejra/BMI-calculator/assets/99544644/c98de376-a1c8-439e-96fa-a1a19a3610f7">
+
   </a>
 </p>
 
